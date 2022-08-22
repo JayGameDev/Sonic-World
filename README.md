@@ -8,4 +8,5 @@ Saves and multiple endings were added for your enjoyment!
 
 #The project files are available for anyone to mess around with: https://drive.google.com/file/d/1ETCj-OIvVo0egL_XXymMlv1S0_pbQ_fY/view
 (Just don't flame me too hard for bad coding practices; Still kinda new to this type of stuff haha)
--I would add them here but the size is too large so it's by google drive.
+
+-I would add them here on github but the file size is too large.
